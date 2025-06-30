@@ -25,5 +25,104 @@
     </Address>
   </Hotel>
 
-  <!-- Add 8 more hotels similarly -->
+  <Hotel Rating="4.0" NearestAirport="Phoenix Sky Harbor">
+    <Name>Hyatt Place Tempe</Name>
+    <Phone>480-555-1001</Phone>
+    <Phone>800-123-4567</Phone>
+    <Address>
+      <Number>730</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.6">
+    <Name>Aloft Tempe</Name>
+    <Phone>480-123-9876</Phone>
+    <Address>
+      <Number>951</Number>
+      <Street>E Playa Del Norte</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3" NearestAirport="Sky Harbor">
+    <Name>Courtyard by Marriott</Name>
+    <Phone>480-222-1111</Phone>
+    <Phone>866-333-4444</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Moxy Phoenix Tempe</Name>
+    <Phone>480-456-0800</Phone>
+    <Address>
+      <Number>1333</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5" NearestAirport="Sky Harbor">
+    <Name>Graduate Tempe</Name>
+    <Phone>480-967-9431</Phone>
+    <Phone>800-888-4321</Phone>
+    <Address>
+      <Number>225</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.7">
+    <Name>Best Western Inn</Name>
+    <Phone>480-963-9511</Phone>
+    <Address>
+      <Number>670</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1" NearestAirport="Phoenix Sky Harbor">
+    <Name>Residence Inn Tempe</Name>
+    <Phone>480-555-7777</Phone>
+    <Phone>480-123-4567</Phone>
+    <Address>
+      <Number>510</Number>
+      <Street>S Forest Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.5">
+    <Name>Super 8 by Wyndham</Name>
+    <Phone>480-901-2345</Phone>
+    <Address>
+      <Number>523</Number>
+      <Street>W Broadway Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
 </Hotels>
+
